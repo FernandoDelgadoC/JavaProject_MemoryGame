@@ -1,6 +1,6 @@
 # Project_MemoryGame
-Juego de Memoria 
-Descripcion
+Juego de Memoria.
+Descripcion:
 Debe hacer un tablero de al menos 10 x 10, contendrá las palabras de memoria. 
 
 La aplicación debe hacer:
